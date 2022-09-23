@@ -1,1 +1,1 @@
-# Graduate-Teaching-Assistant-SML
+# Graduate Teaching Assistant SML
