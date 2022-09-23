@@ -1,4 +1,4 @@
-# Graduate Teaching Assistant SML
+# 🏢👨‍💻 Graduate Teaching Assistant SML
 
 ![](https://github.com/suhasmaddali/Images/blob/main/SML%20Teaching%20Assistant%20Image.jpg)
  
